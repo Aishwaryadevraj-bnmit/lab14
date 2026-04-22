@@ -1,0 +1,8 @@
+mvn archetype:generate
+
+groupId:com.bnmit
+
+artifactID:sample-app
+
+cd sample-app
+mvn clean test
